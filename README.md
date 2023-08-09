@@ -5,7 +5,7 @@
   </h2>
   <p align="center">
     <img alt="Static Badge" src="https://img.shields.io/badge/School-TYUT-green?color=hex">
-    <img alt="Static Badge" src="https://img.shields.io/badge/CCST_(Big_Data_College)-pink?labelColor=hex">
+    <img alt="Static Badge" src="https://img.shields.io/badge/College-CCST_(Big_Data_College)-pink?labelColor=hex">
     <img alt="Static Badge" src="https://img.shields.io/badge/Major-Computer_Science_and_Technology-purple?labelColor=hex">
     <img alt="Static Badge" src="https://img.shields.io/badge/All_Stars-18-green?color=yellow">
   </p>
