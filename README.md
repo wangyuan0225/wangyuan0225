@@ -23,10 +23,10 @@ Skills: C / C++ / Java / Spring / Mysql / Tomcat / Python
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/wangyuan0225)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/wngyun309428850)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19978046)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.yunliyunwai.cn/u/baca1046eb9483fd39faf85750d1fe75/blog)  
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=wangyuan0225&rank=A,B,C"/>
+  <img style="width: 940px;height: auto;max-height:100%;max-width:100%;" src="https://github-profile-trophy.vercel.app/?username=wangyuan0225&rank=A,B,C"/>
   <img src="https://metrics.lecoq.io/wangyuan0225"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyuan0225&layout=donut-vertical"/>
-  <img src="https://streak-stats.demolab.com/?user=wangyuan0225"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=wangyuan0225&count_private=true&show_icons=true"/>
+  <img style="width: 400px;height: auto;max-height:50%;max-width:50%;" src="https://streak-stats.demolab.com/?user=wangyuan0225"/>
+  <img style="width: 380px;height: auto;max-height:50%;max-width:50%;" src="https://github-readme-stats.vercel.app/api?username=wangyuan0225&count_private=true&show_icons=true"/>
 </p>
  
