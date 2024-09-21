@@ -26,7 +26,5 @@ Skills: C / C++ / Java / Spring / Mysql / Tomcat / Python
   <img style="width: 1000px;height: auto;max-height:100%;max-width:100%;" src="https://github-profile-trophy.vercel.app/?username=wangyuan0225&rank=A,B,C"/>
   <img style="width: 400px;height: auto;max-height:50%;max-width:50%;" src="https://streak-stats.demolab.com/?user=wangyuan0225"/>
   <img style="width: 380px;height: auto;max-height:50%;max-width:50%;" src="https://github-readme-stats.vercel.app/api?username=wangyuan0225&count_private=true&show_icons=true"/>
-  <img src="https://metrics.lecoq.io/wangyuan0225"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangyuan0225&layout=donut-vertical"/>
 </p>
  
